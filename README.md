@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # muchang
 
 ## Project setup
@@ -22,3 +23,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# muChang
+smart_muChang
+>>>>>>> ae927f067c312a5a2831bbfbbe5c394010c141a5
